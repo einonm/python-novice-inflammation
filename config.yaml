@@ -33,7 +33,7 @@ source: 'https://github.com/swcarpentry/python-novice-inflammation'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'arcca-help@cardiff.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -85,8 +85,3 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-
-
-url: 'https://swcarpentry.github.io/python-novice-inflammation'
-analytics: carpentries
-lang: en
